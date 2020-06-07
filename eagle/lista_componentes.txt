@@ -1,0 +1,45 @@
+Partlist
+
+Exported from prototipo_2_0.sch at 14/11/2012 22:06:32
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value           Device                Package                Library                    Sheet
+
+BLE_PROG M05X2PTH        M05X2PTH              AVR_ICSP               SparkFun-Connectors        1
+BR1      W05G            W05G                  WOG                    dbridge                    1
+C1       500uF           CAP_POLPTH4           CPOL-RADIAL-1000UF-25V SparkFun-Passives          1
+C2       100n            C5/3                  C5B3                   capacitor-wima             1
+C3       100n            C5/3                  C5B3                   capacitor-wima             1
+C4       100n            C5/3                  C5B3                   capacitor-wima             1
+C5       100n            C5/3                  C5B3                   capacitor-wima             1
+D1       1N4004          1N4004                DO41-10                diode                      1
+D2       1N4004          1N4004                DO41-10                diode                      1
+D3       1N4004          1N4004                DO41-10                diode                      1
+IC1      788TV           788TV                 TO220V                 linear                     1
+IC2      74LS245N        74LS245N              DIL20                  adafruit                   1
+JP1      VCC             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP2      RLY             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP3      PR1             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP4      PR2             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP5      SPI             M06SIP                1X06                   SparkFun-Connectors        1
+JP6      AUX             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP8      PRG             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP9      LED             M023.5MM              SCREWTERMINAL-3.5MM-2  SparkFun-Connectors        1
+JP10     SPI             M06SIP                1X06                   SparkFun-Connectors        1
+Q1       BC547           BC547                 TO92                   transistor-npn             1
+R1       1k              RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+R2       10k             RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+R5       4.7k            RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+R6       4.7k            RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+R7       2.2k            RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+R8       4.7k            RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+R9       330             RESISTORPTH-1/4W      AXIAL-0.4              SparkFun-Passives          1
+S1       RESET           SWITCH-MOMENTARY-2SMD TACTILE_SWITCH_SMD     SparkFun-Electromechanical 1
+U$1      RELAYPTH4       RELAYPTH4             RELAY-JZC              SparkFun-Electromechanical 1
+U$2      ARDUINOMEGA_100 ARDUINOMEGA_100       ARDUINOMEGA_100        prymia                     1
+U1       HC_05           HC_05                 BLUETOOTH_SMD          SerialPortBluetooth        1
+U2       HC_05           HC_05                 BLUETOOTH_SMD          SerialPortBluetooth        1
+U3       BLE112          BLE112-A-VISUAL       BLE112-A               sf-bluegiga                1
